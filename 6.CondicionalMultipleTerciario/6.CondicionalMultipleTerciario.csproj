@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_6.CondicionalMultipleTerciario</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\6.CondicionalesMultiplesTerciario" Link="6.CondicionalesMultiplesTerciario" />
+    <Compile Include="C:\Users\B09S112est\Desktop\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
