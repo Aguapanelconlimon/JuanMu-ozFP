@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ParcialCondicionales_JuanAlbertoMuñoz/1.0.0": {
+        "runtime": {
+          "ParcialCondicionales_JuanAlbertoMuñoz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParcialCondicionales_JuanAlbertoMuñoz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\bin\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.exe
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\bin\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.deps.json
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\bin\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.runtimeconfig.json
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\bin\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.dll
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\bin\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.pdb
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.sourcelink.json
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.dll
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\refint\ParcialCondicionales_JuanAlbertoMuñoz.dll
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.pdb
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ParcialCondicionales_JuanAlbertoMuñoz.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\JuanMuñoz\JuanMu-ozFP\ParcialCondicionales_JuanAlbertoMuñoz\obj\Debug\net8.0\ref\ParcialCondicionales_JuanAlbertoMuñoz.dll
