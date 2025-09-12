@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\bin\Debug\net8.0\Taller Parcial Ciclos.exe
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\bin\Debug\net8.0\Taller Parcial Ciclos.deps.json
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\bin\Debug\net8.0\Taller Parcial Ciclos.runtimeconfig.json
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\bin\Debug\net8.0\Taller Parcial Ciclos.dll
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\bin\Debug\net8.0\Taller Parcial Ciclos.pdb
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\Taller Parcial Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\Taller Parcial Ciclos.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\Taller Parcial Ciclos.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\Taller Parcial Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\Taller Parcial Ciclos.sourcelink.json
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\Taller Parcial Ciclos.dll
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\refint\Taller Parcial Ciclos.dll
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\Taller Parcial Ciclos.pdb
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\Taller Parcial Ciclos.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\Taller Parcial Ciclos\Taller Parcial Ciclos\obj\Debug\net8.0\ref\Taller Parcial Ciclos.dll

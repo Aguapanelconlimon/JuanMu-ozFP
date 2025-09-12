@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Taller Parcial Ciclos/1.0.0": {
+        "runtime": {
+          "Taller Parcial Ciclos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taller Parcial Ciclos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
