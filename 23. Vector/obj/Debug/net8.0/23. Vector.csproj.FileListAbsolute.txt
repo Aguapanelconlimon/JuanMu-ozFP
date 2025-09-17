@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\bin\Debug\net8.0\23. Vector.exe
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\bin\Debug\net8.0\23. Vector.deps.json
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\bin\Debug\net8.0\23. Vector.runtimeconfig.json
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\bin\Debug\net8.0\23. Vector.dll
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\bin\Debug\net8.0\23. Vector.pdb
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\23. Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\23. Vector.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\23. Vector.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\23. Vector.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\23. Vector.sourcelink.json
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\23. Vector.dll
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\refint\23. Vector.dll
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\23. Vector.pdb
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\23. Vector.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\23. Vector\obj\Debug\net8.0\ref\23. Vector.dll
