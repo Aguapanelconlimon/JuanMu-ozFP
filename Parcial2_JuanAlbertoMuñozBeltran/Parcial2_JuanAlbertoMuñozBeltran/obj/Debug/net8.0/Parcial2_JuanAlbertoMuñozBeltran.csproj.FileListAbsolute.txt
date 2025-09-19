@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\bin\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.exe
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\bin\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.deps.json
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\bin\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.runtimeconfig.json
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\bin\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.dll
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\bin\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.pdb
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.sourcelink.json
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.dll
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\refint\Parcial2_JuanAlbertoMuñozBeltran.dll
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.pdb
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\Parcial2_JuanAlbertoMuñozBeltran.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\JGB\JuanMu-ozFP\Parcial2_JuanAlbertoMuñozBeltran\Parcial2_JuanAlbertoMuñozBeltran\obj\Debug\net8.0\ref\Parcial2_JuanAlbertoMuñozBeltran.dll
