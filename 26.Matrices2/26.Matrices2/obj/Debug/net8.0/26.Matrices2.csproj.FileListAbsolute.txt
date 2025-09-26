@@ -1,0 +1,14 @@
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\bin\Debug\net8.0\26.Matrices2.exe
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\bin\Debug\net8.0\26.Matrices2.deps.json
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\bin\Debug\net8.0\26.Matrices2.runtimeconfig.json
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\bin\Debug\net8.0\26.Matrices2.dll
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\bin\Debug\net8.0\26.Matrices2.pdb
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\26.Matrices2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\26.Matrices2.AssemblyInfoInputs.cache
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\26.Matrices2.AssemblyInfo.cs
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\26.Matrices2.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\26.Matrices2.dll
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\refint\26.Matrices2.dll
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\26.Matrices2.pdb
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\26.Matrices2.genruntimeconfig.cache
+C:\Users\B09S105est\source\repos\26.Matrices2\26.Matrices2\obj\Debug\net8.0\ref\26.Matrices2.dll
