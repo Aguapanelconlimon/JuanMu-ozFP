@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.exe
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.deps.json
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.runtimeconfig.json
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.dll
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.pdb
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.sourcelink.json
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.dll
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\refint\TallerMatrices.dll
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.pdb
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\J.M.B\JuanMu-ozFP\JuanMu-ozFP\TallerMatrices\obj\Debug\net8.0\ref\TallerMatrices.dll
