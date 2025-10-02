@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\bin\Debug\net8.0\11.While.exe
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\bin\Debug\net8.0\11.While.deps.json
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\bin\Debug\net8.0\11.While.runtimeconfig.json
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\bin\Debug\net8.0\11.While.dll
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\bin\Debug\net8.0\11.While.pdb
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\11.While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\11.While.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\11.While.AssemblyInfo.cs
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\11.While.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\11.While.sourcelink.json
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\11.While.dll
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\refint\11.While.dll
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\11.While.pdb
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\11.While.genruntimeconfig.cache
+C:\Users\ESTUDIANTES\Desktop\M.B\JuanMu-ozFP\11.While\11.While\obj\Debug\net8.0\ref\11.While.dll
