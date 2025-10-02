@@ -140,7 +140,7 @@
 
             //4.
 
-            int filas = 5;
+            /*int filas = 5;
             int columnas = 5;
             char[,] tablero = new char[filas, columnas];
             Random random = new Random();
@@ -191,9 +191,142 @@
                     Console.Write($"{tablero[i, j],4}");
                 }
                 Console.WriteLine();
+            }*/
+
+
+            //5.
+            /*int filas = 0;
+            int columnas = 0;
+
+            Console.WriteLine("Ingrese el número de filas: ");
+            filas = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el número de columnas: ");
+            columnas = int.Parse(Console.ReadLine());
+
+            int[,] matriz = new int[filas, columnas];
+
+            Console.WriteLine("Ingrese los elementos de la matriz:");
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    Console.Write($"Elemento [{i}, {j}]: ");
+                    matriz[i, j] = int.Parse(Console.ReadLine());
+                }
             }
 
-        }
+            Console.WriteLine("Matriz original:");
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    Console.Write(matriz[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
 
+            int[,] matrizNueva = new int[columnas, filas];
+
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    matrizNueva[j, i] = matriz[i, j];
+                }
+            }
+
+            Console.WriteLine("\nMatriz transpuesta:");
+            for (int i = 0; i < columnas; i++)
+            {
+                for (int j = 0; j < filas; j++)
+                {
+                    Console.Write(matrizNueva[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }*/
+
+            //6.
+
+            int filas = 0;
+            int columnas = 0;
+            int numero = 0;
+            int contador1 = 0;
+            int contador2 = 0;
+            int contador3 = 0;
+            Random random = new Random();
+
+            Console.WriteLine("Ingrese el número de filas: ");
+            filas = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el número de columnas: ");
+            columnas = int.Parse(Console.ReadLine());
+
+            int[,] matriz = new int[filas, columnas];
+
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    numero = random.Next(0, 4);
+                    matriz[i, j] = numero;
+
+                    if (numero == 1) contador1++;
+                    else if (numero == 2) contador2++;
+                    else if (numero == 3) contador3++;
+                }
+
+            }
+
+            Console.WriteLine("Matriz generada:");
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    Console.Write(matriz[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine($"\nEl número 1 aparece {contador1} veces.");
+            Console.WriteLine($"El número 2 aparece {contador2} veces.");
+            Console.WriteLine($"El número 3 aparece {contador3} veces.");
+
+            Console.Write("El número más repetido es: ");
+
+            if (contador1 > contador2 && contador1 > contador3)
+            {
+                Console.WriteLine("1");
+            }
+            else if (contador2 > contador1 && contador2 > contador3)
+            {
+                Console.WriteLine("2");
+            }
+            else if (contador3 > contador1 && contador3 > contador2)
+            {
+                Console.WriteLine("3");
+            }
+            else
+            {
+                Console.Write("Empate entre: ");
+                if (contador1 == contador2 && contador1 > contador3)
+                {
+                    Console.WriteLine("1 y 2");
+                }
+                else if (contador1 == contador3 && contador1 > contador2)
+                {
+                    Console.WriteLine("1 y 3");
+                }
+                else if (contador2 == contador3 && contador2 > contador1)
+                {
+                    Console.WriteLine("2 y 3");
+                }
+                else if (contador1 == contador2 && contador1 == contador3)
+                {
+                    Console.WriteLine("1, 2 y 3");
+                }
+
+            }
+        }
     }
 }
