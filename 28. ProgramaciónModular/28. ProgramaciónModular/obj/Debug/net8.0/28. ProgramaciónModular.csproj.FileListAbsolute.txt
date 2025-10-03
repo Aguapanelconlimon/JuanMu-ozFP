@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\bin\Debug\net8.0\28. ProgramaciónModular.exe
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\bin\Debug\net8.0\28. ProgramaciónModular.deps.json
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\bin\Debug\net8.0\28. ProgramaciónModular.runtimeconfig.json
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\bin\Debug\net8.0\28. ProgramaciónModular.dll
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\bin\Debug\net8.0\28. ProgramaciónModular.pdb
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\28. ProgramaciónModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\28. ProgramaciónModular.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\28. ProgramaciónModular.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\28. ProgramaciónModular.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\28. ProgramaciónModular.sourcelink.json
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\28. ProgramaciónModular.dll
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\refint\28. ProgramaciónModular.dll
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\28. ProgramaciónModular.pdb
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\28. ProgramaciónModular.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\JMB\Juan Alberto Muñoz\JuanMu-ozFP\JuanMu-ozFP\JuanMu-ozFP\28. ProgramaciónModular\28. ProgramaciónModular\obj\Debug\net8.0\ref\28. ProgramaciónModular.dll
