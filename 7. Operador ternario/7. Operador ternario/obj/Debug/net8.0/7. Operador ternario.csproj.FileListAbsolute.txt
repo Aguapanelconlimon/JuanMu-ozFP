@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\bin\Debug\net8.0\7. Operador ternario.exe
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\bin\Debug\net8.0\7. Operador ternario.deps.json
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\bin\Debug\net8.0\7. Operador ternario.runtimeconfig.json
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\bin\Debug\net8.0\7. Operador ternario.dll
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\bin\Debug\net8.0\7. Operador ternario.pdb
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\7. Operador ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\7. Operador ternario.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\7. Operador ternario.AssemblyInfo.cs
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\7. Operador ternario.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\7. Operador ternario.dll
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\refint\7. Operador ternario.dll
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\7. Operador ternario.pdb
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\7. Operador ternario.genruntimeconfig.cache
+C:\Users\ESTUDIANTES\Desktop\JbM\7. Operador ternario\7. Operador ternario\obj\Debug\net8.0\ref\7. Operador ternario.dll
